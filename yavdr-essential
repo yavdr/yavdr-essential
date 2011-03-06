@@ -79,7 +79,6 @@ xine-ui
 xineliboutput-sxfe
 xinit
 xserver-xorg
-xserver-xorg-input-evtouch
 xserver-xorg-video-vesa
 yavdr-utils
 yavdr-base
@@ -88,6 +87,4 @@ vdr-addon-avahi-mounter
 vdr-skins-anthra
 xterm
 uswsusp
-udisks-automounter
 openbox
-linux-backports-modules-alsa-lucid-generic
