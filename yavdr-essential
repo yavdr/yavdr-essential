@@ -33,6 +33,7 @@ samba
 samba-common
 samba-common-bin
 smbclient
+yavdr-remote
 ssh
 tint2
 update-manager-core
