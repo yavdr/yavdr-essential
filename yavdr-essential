@@ -37,7 +37,7 @@ yavdr-remote
 ssh
 tint2
 update-manager-core
-udisks-automounter
+udisks-glue
 ureadahead
 vdr
 vdr-addon-acpiwakeup
