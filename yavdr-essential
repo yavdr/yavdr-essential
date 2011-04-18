@@ -27,6 +27,7 @@ nfs-kernel-server
 libvdpau1
 ntfs-3g
 nvram-wakeup
+plymouth-theme-ubuntu-text
 ruby
 smbfs
 samba
