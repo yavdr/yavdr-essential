@@ -57,6 +57,7 @@ vdr-plugin-iptv
 vdr-plugin-live
 vdr-plugin-markad
 vdr-plugin-menuorg
+vdr-plugin-remote
 vdr-plugin-streamdev-server
 vdr-plugin-vnsiserver
 vdr-plugin-text2skin
