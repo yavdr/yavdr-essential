@@ -53,6 +53,7 @@ vdr-plugin-extrecmenu
 vdr-plugin-femon
 vdr-plugin-graphtft
 vdr-plugin-dvbhddevice
+vdr-plugin-dvbsddevice
 vdr-plugin-iptv
 vdr-plugin-live
 vdr-plugin-markad
