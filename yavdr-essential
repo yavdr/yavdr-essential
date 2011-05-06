@@ -80,6 +80,7 @@ x11-xserver-utils
 xbmc
 xfonts-base
 hsetroot
+xcompmgr
 xine-ui
 xineliboutput-sxfe
 xinit
