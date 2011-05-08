@@ -27,11 +27,6 @@ nct677x-dkms
 ntfs-3g
 nvram-wakeup
 ruby
-smbfs
-samba
-samba-common
-samba-common-bin
-smbclient
 ssh
 tint2
 update-manager-core
