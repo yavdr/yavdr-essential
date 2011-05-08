@@ -19,8 +19,6 @@ linux-firmware-nonfree
 linux-firmware-yavdr
 logrotate
 mhddfs
-nfs-common
-nfs-kernel-server
 libvdpau1
 nct677x-dkms
 nvram-wakeup
