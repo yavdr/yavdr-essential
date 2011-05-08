@@ -5,7 +5,6 @@ alsa-base
 anacron
 at
 avahi-daemon
-avahi-discover
 build-essential
 cpufrequtils
 ethtool
