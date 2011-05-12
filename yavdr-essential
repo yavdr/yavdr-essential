@@ -45,6 +45,7 @@ vdr-plugin-iptv
 vdr-plugin-live
 vdr-plugin-markad
 vdr-plugin-menuorg
+vdr-plugin-skinpearlhd
 vdr-plugin-streamdev-server
 vdr-plugin-vnsiserver
 vdr-plugin-text2skin
@@ -53,7 +54,7 @@ vdr-plugin-xine
 vdr-plugin-xineliboutput
 vdr-plugin-control
 vdr-skin-narrowhd
-vdr-skin-pearlhd
+vdr-skins-anthra
 vdr-skins-speciallogos
 vdr-tft-anthraize
 vdr-tft-pearlhd
@@ -67,7 +68,6 @@ x11-xserver-utils
 xbmc
 xfonts-base
 hsetroot
-xcompmgr
 xine-ui
 xineliboutput-sxfe
 xinit
@@ -77,7 +77,6 @@ yavdr-utils
 yavdr-base
 yavdr-webfrontend
 vdr-addon-avahi-mounter
-vdr-skins-anthra
 xterm
 usbutils
 uswsusp
