@@ -76,6 +76,7 @@ xserver-xorg-video-vesa
 yavdr-utils
 yavdr-base
 yavdr-webfrontend
+yavdr-plymouth-theme
 vdr-addon-avahi-mounter
 xterm
 usbutils
