@@ -22,6 +22,7 @@ mhddfs
 libvdpau1
 nvram-wakeup
 plymouth-theme-ubuntu-text
+ir-keytable
 yavdr-remote
 ssh
 tint2
