@@ -50,7 +50,7 @@ vdr-plugin-pvr350
 vdr-plugin-shutdown
 vdr-plugin-skinpearlhd
 vdr-plugin-streamdev-server
-vdr-plugin-vnsiserver
+vdr-plugin-xvdr
 vdr-plugin-text2skin
 vdr-plugin-wirbelscan
 vdr-plugin-xine
@@ -86,3 +86,4 @@ usbutils
 uswsusp
 openbox
 wakeonlan
+xbmc-addon-xvdr
