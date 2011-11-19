@@ -69,6 +69,7 @@ x11-utils
 x11-xserver-utils
 xbmc
 xfonts-base
+xfsprogs
 hsetroot
 xine-ui
 xineliboutput-sxfe
