@@ -19,15 +19,16 @@ linux-firmware-nonfree
 linux-firmware-yavdr
 logrotate
 mhddfs
+mutter
 libvdpau1
 nvram-wakeup
 plymouth-theme-ubuntu-text
 ir-keytable
 yavdr-remote
 ssh
-tint2
 update-manager-core
 udisks-glue
+unity-2d
 ureadahead
 vdr
 vdr-addon-acpiwakeup
@@ -64,7 +65,6 @@ vdr-tft-standard
 vdr-xpmlogos
 w-scan
 wget
-wmdrawer
 x11-utils
 x11-xserver-utils
 xbmc
@@ -84,6 +84,5 @@ vdr-addon-avahi-mounter
 xterm
 usbutils
 uswsusp
-openbox
 wakeonlan
 xbmc-addon-xvdr
