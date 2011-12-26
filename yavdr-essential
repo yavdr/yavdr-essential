@@ -29,6 +29,7 @@ ssh
 update-manager-core
 udisks-glue
 unity-2d
+unity-lens-applications
 ureadahead
 vdr
 vdr-addon-acpiwakeup
