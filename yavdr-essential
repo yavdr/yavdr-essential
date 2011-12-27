@@ -11,6 +11,7 @@ ethtool
 eventlircd
 firefox
 graphtft-fe
+gconf2
 irserver
 lirc
 libxine1-xvdr
