@@ -7,6 +7,7 @@ at
 avahi-daemon
 build-essential
 cpufrequtils
+devilspie
 ethtool
 eventlircd
 firefox
