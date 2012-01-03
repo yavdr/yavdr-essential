@@ -30,6 +30,7 @@ yavdr-remote
 ssh
 update-manager-core
 udisks-glue
+unity-2d
 unity-lens-applications
 ureadahead
 vdr
@@ -86,4 +87,3 @@ xterm
 usbutils
 uswsusp
 wakeonlan
-yavdr-unity-2d
