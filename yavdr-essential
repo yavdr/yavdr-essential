@@ -78,6 +78,8 @@ yavdr-base
 yavdr-webfrontend
 yavdr-plymouth-theme
 vdr-addon-avahi-mounter
+xbmc
+xbmc-addon-xvdr
 xterm
 usbutils
 uswsusp
