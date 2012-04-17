@@ -7,6 +7,7 @@ at
 avahi-daemon
 build-essential
 cpufrequtils
+dvb-driver-sundtek-mediaclient
 ethtool
 eventlircd
 firefox
