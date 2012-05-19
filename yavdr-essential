@@ -86,6 +86,7 @@ xine-ui
 xinit
 xserver-xorg
 xserver-xorg-video-vesa
+xserver-xorg-video-intel
 xterm
 yavdr-base
 yavdr-plymouth-theme
