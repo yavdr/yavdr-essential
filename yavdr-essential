@@ -19,6 +19,7 @@ ir-keytable
 irserver
 libvdpau1
 libxine1-xvdr
+lightdm
 linux-firmware
 linux-firmware-nonfree
 linux-firmware-yavdr
@@ -28,6 +29,7 @@ mhddfs
 nvram-wakeup
 openbox
 plymouth-theme-ubuntu-text
+pulseaudio
 ssh
 tint2
 ubuntu-extras-keyring
