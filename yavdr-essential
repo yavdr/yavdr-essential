@@ -30,6 +30,7 @@ nvram-wakeup
 openbox
 plymouth-theme-ubuntu-text
 pulseaudio
+python-xdg
 ssh
 tint2
 ubuntu-extras-keyring
