@@ -96,6 +96,7 @@ xserver-xorg-video-vesa
 xserver-xorg-video-intel
 xterm
 yavdr-base
+yavdr-hostwakeup
 yavdr-plymouth-theme
 yavdr-remote
 yavdr-utils
