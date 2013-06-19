@@ -31,10 +31,7 @@ logrotate
 mhddfs
 nvram-wakeup
 openbox
-pavucontrol
 plymouth-theme-ubuntu-text
-pulseaudio
-pulseaudio-module-x11
 python-xdg
 python-xlib
 ssh
