@@ -12,17 +12,13 @@ dvb-driver-sundtek-mediaclient
 ethtool
 eventlircd
 firefox
-gnome-icon-theme-full
-gnome-themes-standard
 graphtft-fe
 hsetroot
 i965-va-driver
 ir-keytable
 irserver
-libplist1
 libvdpau1
 libxine1-xvdr
-lightdm
 linux-firmware
 linux-firmware-nonfree
 linux-firmware-yavdr
@@ -32,8 +28,6 @@ mhddfs
 nvram-wakeup
 openbox
 plymouth-theme-ubuntu-text
-python-xdg
-python-xlib
 ssh
 tint2
 ubuntu-extras-keyring
