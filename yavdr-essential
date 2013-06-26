@@ -49,7 +49,7 @@ vdr-plugin-dynamite
 vdr-plugin-epgsearch
 vdr-plugin-extrecmenu
 vdr-plugin-femon
-vdr-plugin-graphtft
+vdr-plugin-graphtftng
 vdr-plugin-iptv
 vdr-plugin-live
 vdr-plugin-markad
@@ -63,9 +63,9 @@ vdr-plugin-xine
 vdr-plugin-xineliboutput
 vdr-plugin-xvdr
 vdr-skins-speciallogos
-vdr-tft-anthraize
-vdr-tft-pearlhd
-vdr-tft-standard
+vdr-tftng-anthraize
+vdr-tftng-pearlhd
+vdr-tftng-standard
 vdr-xpmlogos
 vim
 wakeonlan
