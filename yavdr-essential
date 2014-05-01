@@ -47,7 +47,6 @@ vdr-plugin-dvbsddevice
 vdr-plugin-dvbhddevice
 vdr-plugin-dynamite
 vdr-plugin-epgsearch
-vdr-plugin-extrecmenu
 vdr-plugin-femon
 vdr-plugin-graphtftng
 vdr-plugin-iptv
@@ -55,17 +54,12 @@ vdr-plugin-live
 vdr-plugin-markad
 vdr-plugin-menuorg
 vdr-plugin-pvr350
-vdr-plugin-skinpearlhd
 vdr-plugin-softhddevice
 vdr-plugin-streamdev-server
-vdr-plugin-text2skin
 vdr-plugin-wirbelscan
 vdr-plugin-xine
 vdr-plugin-xineliboutput
 vdr-plugin-xvdr
-vdr-skin-anthra-1920-fse
-vdr-skin-narrowhd
-vdr-skins-anthra
 vdr-skins-speciallogos
 vdr-tftng-anthraize
 vdr-tftng-pearlhd
