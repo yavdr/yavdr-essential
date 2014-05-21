@@ -28,6 +28,7 @@ mhddfs
 nvram-wakeup
 openbox
 plymouth-theme-ubuntu-text
+pm-utils
 ssh
 tint2
 ubuntu-extras-keyring
