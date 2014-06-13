@@ -8,6 +8,7 @@ avahi-daemon
 bash-completion
 build-essential
 cpufrequtils
+consolekit
 dvb-driver-sundtek-mediaclient
 ethtool
 eventlircd
@@ -19,6 +20,7 @@ ir-keytable
 irserver
 libvdpau1
 libxine1-xvdr
+libpam-ck-connector
 linux-firmware
 linux-firmware-nonfree
 linux-firmware-yavdr
