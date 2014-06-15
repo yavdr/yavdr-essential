@@ -57,6 +57,7 @@ vdr-plugin-live
 vdr-plugin-markad
 vdr-plugin-menuorg
 vdr-plugin-pvr350
+vdr-plugin-restfulapi
 vdr-plugin-skinnopacity
 vdr-plugin-softhddevice
 vdr-plugin-streamdev-server
