@@ -31,6 +31,7 @@ nvram-wakeup
 openbox
 plymouth-theme-ubuntu-text
 pm-utils
+pulseaudio-utils
 ssh
 tint2
 ubuntu-extras-keyring
