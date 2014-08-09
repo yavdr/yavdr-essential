@@ -80,9 +80,9 @@ xfsprogs
 xineliboutput-sxfe
 xine-ui
 xinit
-xserver-xorg
-xserver-xorg-video-vesa
-xserver-xorg-video-intel
+xserver-xorg | xserver-xorg-lts-trusty
+xserver-xorg-video-vesa | xserver-xorg-video-vesa-lts-trusty
+xserver-xorg-video-intel | xserver-xorg-video-intel-lts-trusty
 xterm
 yavdr-base
 yavdr-plymouth-theme
