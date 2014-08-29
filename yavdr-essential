@@ -29,8 +29,10 @@ logrotate
 mhddfs
 nvram-wakeup
 openbox
+pavucontrol
 plymouth-theme-ubuntu-text
 pm-utils
+pulseaudio
 pulseaudio-utils
 ssh
 tint2
