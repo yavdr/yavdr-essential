@@ -13,3 +13,10 @@ Architecture: any
 Depends: ${yavdr-essential}
 Description: Informational list of build-essential packages
   Metapackage for yaVDR
+
+Package: yavdr-essential-docker-headless
+Architecture: any
+Depends: ${yavdr-essential-docker-headless}
+Description: Informational list of build-essential packages
+  Metapackage for a headless yaVDR in a docker container
+

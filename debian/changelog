@@ -1,3 +1,9 @@
+yavdr-essential (0.3.1-0yavdr0) trusty; urgency=medium
+
+  * add a package for headless docker installation
+
+ -- Lars Hanisch <dvb@flensrocker.de>  Sun, 21 Sep 2014 16:15:13 +0200
+
 yavdr-essential (0.3.0.2557-1yavdr1) lucid; urgency=low
 
   * build

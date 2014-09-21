@@ -29,6 +29,9 @@ install: build
 	printf > debian/yavdr-essential.substvars "yavdr-essential=%s\n" \
          "`grep -v "^#" yavdr-essential|tr '\n' ', '`"
 
+	printf > debian/yavdr-essential-docker-headless.substvars "yavdr-essential-docker-headless=%s\n" \
+         "`grep -v "^#" yavdr-essential-docker-headless|tr '\n' ', '`"
+
 # Build architecture-independent files here.
 binary-indep: build install
 # Nothing to do
