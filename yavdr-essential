@@ -18,6 +18,8 @@ hsetroot
 i965-va-driver
 ir-keytable
 irserver
+kodi
+xbmc-pvr-vdr-vnsi
 libvdpau1
 libxine1-xvdr
 libpam-ck-connector
@@ -67,7 +69,7 @@ vdr-plugin-softhddevice
 vdr-plugin-streamdev-server
 vdr-plugin-wirbelscan
 vdr-plugin-xineliboutput
-vdr-plugin-xvdr
+vdr-plugin-vnsiserver
 vdr-skins-speciallogos
 vdr-tftng-anthraize
 vdr-tftng-pearlhd
@@ -81,8 +83,6 @@ wpasupplicant
 w-scan
 x11-utils
 x11-xserver-utils
-xbmc
-xbmc-addon-xvdr
 xfonts-base
 xfsprogs
 xineliboutput-sxfe
