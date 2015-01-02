@@ -67,9 +67,9 @@ vdr-plugin-restfulapi
 vdr-plugin-skinnopacity
 vdr-plugin-softhddevice
 vdr-plugin-streamdev-server
+vdr-plugin-vnsiserver
 vdr-plugin-wirbelscan
 vdr-plugin-xineliboutput
-vdr-plugin-vnsiserver
 vdr-skins-speciallogos
 vdr-tftng-anthraize
 vdr-tftng-pearlhd
