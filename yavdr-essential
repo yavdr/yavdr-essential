@@ -6,6 +6,7 @@ anacron
 at
 avahi-daemon
 bash-completion
+biosdevname
 build-essential
 cpufrequtils
 consolekit
