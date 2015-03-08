@@ -38,6 +38,7 @@ plymouth-theme-ubuntu-text
 pm-utils
 pulseaudio
 pulseaudio-utils
+software-properties-common
 ssh
 tint2
 ubuntu-extras-keyring
