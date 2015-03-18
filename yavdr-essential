@@ -48,6 +48,7 @@ ureadahead
 usbutils
 uswsusp
 vdr
+vdrctl
 vdr-addon-acpiwakeup
 vdr-addon-avahi-linker
 vdr-addon-lifeguard
