@@ -55,7 +55,6 @@ vdr-addon-lifeguard
 vdr-plugin-avahi4vdr
 vdr-plugin-channellists
 vdr-plugin-dbus2vdr
-vdr-plugin-dummydevice
 vdr-plugin-dvbsddevice
 vdr-plugin-dvbhddevice
 vdr-plugin-dynamite
