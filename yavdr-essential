@@ -38,6 +38,7 @@ plymouth-theme-ubuntu-text
 pm-utils
 pulseaudio
 pulseaudio-utils
+python3-yavdrctl
 software-properties-common
 ssh
 tint2
@@ -99,4 +100,3 @@ yavdr-plymouth-theme
 yavdr-remote
 yavdr-utils
 yavdr-webfrontend
-yavdrctl
