@@ -89,6 +89,7 @@ x11-xserver-utils
 xfonts-base
 xfsprogs
 xineliboutput-sxfe
+xine-ui
 xinit
 xserver-xorg
 xserver-xorg-video-vesa
