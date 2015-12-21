@@ -66,6 +66,7 @@ vdr-plugin-iptv
 vdr-plugin-live
 vdr-plugin-markad
 vdr-plugin-menuorg
+vdr-plugin-pulsecontrol
 vdr-plugin-pvr350
 vdr-plugin-restfulapi
 vdr-plugin-softhddevice
