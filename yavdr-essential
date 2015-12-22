@@ -21,6 +21,7 @@ i965-va-driver
 ir-keytable
 irserver
 kodi
+kodi-eventclients-xbmc-send
 kodi-pvr-vdr-vnsi
 libvdpau1
 libxine1-xvdr
