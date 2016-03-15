@@ -37,6 +37,7 @@ openbox
 pavucontrol
 plymouth-theme-ubuntu-text
 pm-utils
+psmisc
 pulseaudio
 pulseaudio-utils
 python3-yavdrctl
