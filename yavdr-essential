@@ -23,6 +23,7 @@ irserver
 kodi
 kodi-eventclients-xbmc-send
 kodi-pvr-vdr-vnsi
+libegl1-mesa
 libvdpau1
 libxine1-xvdr
 libpam-ck-connector
